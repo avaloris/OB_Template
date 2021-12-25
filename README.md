@@ -7,7 +7,7 @@ If you've tested out <a href="https://obsidian.md/">Obsidian.</a> and worked thr
 
 OB_Template contains template vault to get started, or to take some ideas. 
 
-1. Clone the repository or download as a zip and open a vault folder in Obsidian using the "Open another vault" sidebar button.
+1. Clone the repository or download as a zip and open a vault folder in Obsidian using the "Ope n another vault" sidebar button.
 
 # Content
   1. <a href="https://github.com/llZektorll/OB_Template/tree/main/OB_Template/01_Templates/01_1_DailyLog">Daily Log </a> - Templates for daily log, weekly, monthly and yearly reviews
